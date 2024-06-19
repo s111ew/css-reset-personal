@@ -1,0 +1,25 @@
+{
+  "name": "css-reset-personal",
+  "version": "1.0.0",
+  "description": "A minimalist CSS reset package for use in personal projects and testing environments that do not require web scraper indexing.",
+  "main": "reset.css",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/s111ew/css-reset-personal.git"
+  },
+  "keywords": [
+    "CSS",
+    "reset",
+    "personal",
+    "webscraper"
+  ],
+  "author": "Sam Llewellyn",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/s111ew/css-reset-personal/issues"
+  },
+  "homepage": "https://github.com/s111ew/css-reset-personal#readme"
+}
