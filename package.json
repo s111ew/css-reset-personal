@@ -1,5 +1,5 @@
 {
-  "name": "css-reset-personal",
+  "name": "resets-and-robots",
   "version": "1.0.0",
   "description": "A minimalist CSS reset package for use in personal projects and testing environments that do not require web scraper indexing.",
   "main": "reset.css",
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/s111ew/css-reset-personal.git"
+    "url": "git+https://github.com/s111ew/resets-and-robots.git"
   },
   "keywords": [
     "CSS",
@@ -19,7 +19,7 @@
   "author": "Sam Llewellyn",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/s111ew/css-reset-personal/issues"
+    "url": "https://github.com/s111ew/resets-and-robots/issues"
   },
-  "homepage": "https://github.com/s111ew/css-reset-personal#readme"
+  "homepage": "https://github.com/s111ew/resets-and-robots#readme"
 }
